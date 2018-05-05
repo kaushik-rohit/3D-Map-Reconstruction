@@ -1,0 +1,5 @@
+/home/rohit/project/rtabmap/build/CMakeFiles/rgbd_mapping.dir
+/home/rohit/project/rtabmap/build/CMakeFiles/resample.dir
+/home/rohit/project/rtabmap/build/CMakeFiles/edit_cache.dir
+/home/rohit/project/rtabmap/build/CMakeFiles/mesh.dir
+/home/rohit/project/rtabmap/build/CMakeFiles/rebuild_cache.dir
